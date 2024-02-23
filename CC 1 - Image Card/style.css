@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #eee;
+    height: 50vh;
+    width: 50vh;
+}
+.container{
+    height: 350px;
+    width: 368px;
+    background-color: bisque;
+    margin: 50%;
+    border-radius: 16px;
+    
+}
+.card{
+    padding: 16px;
+}
+img{
+    width: 336px;
+    height: 152px;
+    border-radius: 16px;
+}
+.design{
+    margin: 16px;
+    font-size: 12px;
+    color: blueviolet;
+    padding-top: 4px;
+}
+h4{
+    margin-bottom: 6px;
+}
+.minimal{
+    font-size: 12px;
+    color: darkgrey;
+    margin-bottom: 20px;
+}
+.name{
+    margin: 20px 0px 20px 0px;
+}
